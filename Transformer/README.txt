@@ -1,0 +1,6 @@
+文件夹下的.py文件为jupyter文件的导出文件
+transformer.ipynb为transformer模型的代码文件
+REAL_transformer.ipynb为transformer模型在分词部分进行修改后的的代码文件
+translate.ipynb为模型预测的示例
+subwordTextEncoder*用于构建分词器
+bleu_score.py用于计算bleu分数
