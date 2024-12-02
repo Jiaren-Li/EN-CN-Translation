@@ -1,0 +1,4 @@
+process_data_jieba、process_data_bert分别为基于jieba、bert分词的数据处理代码
+test_sentence为原始数据集之外的英文语句，用于观察模型的翻译效果，所对应的生成文件为test_en_try.npy
+每个模型文件夹下面分别为该模型的训练代码和结果整理输出代码
+
